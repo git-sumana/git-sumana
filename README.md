@@ -10,6 +10,7 @@
 
 
 ![](https://img.shields.io/badge/language-282C34?logo=c&logoColor=61DAFB) 
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 <!---
 git-sumana/git-sumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
