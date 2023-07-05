@@ -8,7 +8,7 @@
 <h3>Technical Skills</h3>
 
 
-[![](https://img.shields.io/badge/language-282C34?logo=c&logoColor=61DAFB) ]
+![](https://img.shields.io/badge/language-282C34?logo=c&logoColor=61DAFB) 
 <!---
 git-sumana/git-sumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
