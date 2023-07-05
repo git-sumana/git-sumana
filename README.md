@@ -4,6 +4,7 @@
 - 👨 Pronoun: He/his
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/sumana-datta-kapavarapu-051959224//)
 &nbsp;
+- 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a>
 
 <h3>Technical Skills</h3>
 
