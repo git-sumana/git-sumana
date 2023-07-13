@@ -44,7 +44,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
 
 ![]()
-![](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 
 <!---
 git-sumana/git-sumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
