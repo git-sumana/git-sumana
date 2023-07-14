@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/Matlab-282C34?logo=matlab&logoColor=61DAFB) 
 ![](https://img.shields.io/badge/Octave-282C34?logo=Octave&logoColor=61DAFB) <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="git-sumana" /></p><br>
+<p><img align="left" src="https://githu-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="" /></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
 
