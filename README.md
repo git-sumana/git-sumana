@@ -44,7 +44,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
 
 ![]()
-![https://linktr.ee/writes](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 <!---
 git-sumana/git-sumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
