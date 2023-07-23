@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Sumana Datta Kapavarapu</b>
-- 👀 I’m interested in <b>Devops and Cloud Computing</b>
+- 👀 I’m interested in <b>Cloud Computing</b>
 - 🌱 I’m currently learning <b>Full Stack with Java</b>
 - 👨 Pronoun: He/his
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/sumana-datta-kapavarapu-051959224//)
