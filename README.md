@@ -40,6 +40,9 @@
 ![](https://img.shields.io/badge/Matlab-282C34?logo=matlab&logoColor=61DAFB) 
 ![](https://img.shields.io/badge/Octave-282C34?logo=Octave&logoColor=61DAFB) <br>
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) <br>
+
+<h3>Practice Platforms</h3>
+
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) <br>
