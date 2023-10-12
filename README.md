@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Sumana Datta Kapavarapu</b>
-- 🧑‍🎓 Final year UG in Department of <b>Internet of Things</b>
+- 🧑‍🎓 Final year UG in Department of <b>Internet of Things</b><br>
   <b>@ S.R. Gudlavalleru Engineering College</b>
 - 👀 I’m interested in <b>Cloud Computing</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
