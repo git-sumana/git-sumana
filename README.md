@@ -1,11 +1,9 @@
 - 👋 Hi, I’m <b>Sumana Datta Kapavarapu</b>
 - 🧑‍🎓 Final year UG in Department of <b>Internet of Things</b><br>
-  <b>@ S.R. Gudlavalleru Engineering College</b>
 - 👀 I’m interested in <b>Cloud Computing</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👨 Pronoun: He/his.
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/sumana-datta-kapavarapu-051959224//)
-&nbsp;
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t>
 <a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
 
