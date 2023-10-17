@@ -5,6 +5,10 @@
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👨 Pronoun: He/his.
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/sumana-datta-kapavarapu-051959224//)
+
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
+
 &nbsp;
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t>
 <a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
