@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>Sumana Datta Kapavarapu</b>
 - 🧑‍🎓 Final year UG in Department of <b>Internet of Things</b><br>
-- 👀 I’m interested in <b>Cloud Computing</b>
+- 👀 I’m interested in <b>Back-end Development and Cloud Computing</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👨 Pronoun: He/his.
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/sumana-datta-kapavarapu-051959224//)
