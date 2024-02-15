@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>Sumana Datta Kapavarapu</b>
 - 🧑‍🎓 Final year UG in Department of <b>Internet of Things</b><br>
 - 👀 I’m interested in <b>Back-end Development and Cloud Computing</b>
-- 📚 I’m currently working on <b>Data Structures and Algorithms</b>
+- 📚 I’m currently working on <b>Maven and Spring Boot</b>
 - 👨 Pronoun: He/his.
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/sumana-datta)
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t>
