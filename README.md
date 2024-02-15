@@ -7,7 +7,7 @@
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t>
 <a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GIT-SUMANA" /> </p>
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={git-sumana}&theme=blue-green" alt="GIT-SUMANA" /> </p>
   -->
 <h3>Technical Skills</h3>
@@ -15,11 +15,12 @@
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <BR>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)</br>
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/XML-00979D?style=for-the-badge)</br>
 ![](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
-![](https://img.shields.io/badge/XML-00979D?style=for-the-badge)
+
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <!-- ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) --> 
 </br>
 
