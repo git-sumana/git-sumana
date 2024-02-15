@@ -3,8 +3,8 @@
 - 👀 I’m interested in <b>Back-end Development and Cloud Computing</b>
 - 📚 I’m currently working on <b>Maven and Spring Boot</b>
 - 👨 Pronoun: He/his.
+- - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t>
  <!--🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://https://www.linkedin.com/in/sumana-datta](https://www.linkedin.com/in/sumana-datta/)) -->
-- 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t>
 <a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GIT-SUMANA" /> </p>
