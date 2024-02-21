@@ -7,7 +7,7 @@
  <!--🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://https://www.linkedin.com/in/sumana-datta](https://www.linkedin.com/in/sumana-datta/)) -->
 
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GIT-SUMANA" /> </p><br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GIT-SUMANA" /> </p>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="git-sumana" /></p>
 
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={git-sumana}&theme=blue-green" alt="GIT-SUMANA" /> </p>
