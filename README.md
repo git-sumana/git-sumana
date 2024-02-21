@@ -12,6 +12,7 @@
 
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={git-sumana}&theme=blue-green" alt="GIT-SUMANA" /> </p>
   -->
+ <p align="center">
 <h3>Technical Skills</h3>
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -57,6 +58,7 @@
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) <br>
+ </p>
 <p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
 <p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
 
