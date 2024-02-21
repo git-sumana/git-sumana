@@ -57,7 +57,8 @@
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) <br>
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p>  <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
+<p align="centre">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
+<p align="centre"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
 
 ![]()
 <!---
