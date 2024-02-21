@@ -61,7 +61,7 @@
  </p>
 <p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
 <p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
-
+</p>
 ![]()
 <!---
 git-sumana/git-sumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
