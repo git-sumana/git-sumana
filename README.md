@@ -6,6 +6,7 @@
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t><a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
  <!--🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://https://www.linkedin.com/in/sumana-datta](https://www.linkedin.com/in/sumana-datta/)) -->
 
+<p align="center"><img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="git-sumana" /></p>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GIT-SUMANA" /> </p>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="git-sumana" /></p>
