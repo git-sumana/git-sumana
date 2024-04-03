@@ -64,8 +64,8 @@
  </p>
 <p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
 <p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
-</p>
-<br><i><h2>   If oppertunity doesn't knock the door, Create a door</h2></i>
+
+<i><h2>   If oppertunity doesn't knock the door, Create a door</h2></i></p>
 
 <!---![]()
 
