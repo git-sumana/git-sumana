@@ -20,7 +20,7 @@
 <i><h2>                                 If oppertunity doesn't knock the door, Build a door</h2></i>
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={git-sumana}&theme=blue-green" alt="GIT-SUMANA" /> </p>
   -->
- <p align="center">
+ <div align="center">
 <h3>Technical Skills</h3>
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
@@ -66,7 +66,8 @@
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) <br>
- </p>
+ 
+ </div>
 
 <!---![]()
 
