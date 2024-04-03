@@ -65,8 +65,11 @@
 <p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
 <p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
 </p>
-![]()
-<!---
+
+<br><b><h2>If oppertunity doesn't know the door, create a door</h2><b>
+
+<!---![]()
+
 git-sumana/git-sumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
