@@ -11,8 +11,13 @@
 </p>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GIT-SUMANA" /> </p>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="git-sumana" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="git-sumana" /></p><br>
 
+
+<p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
+<p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
+
+<i><h2>                                 If oppertunity doesn't knock the door, Create a door</h2></i>
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={git-sumana}&theme=blue-green" alt="GIT-SUMANA" /> </p>
   -->
  <p align="center">
@@ -62,10 +67,6 @@
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) <br>
  </p>
-<p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
-<p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
-
-<i><h2>                                 If oppertunity doesn't knock the door, Create a door</h2></i></p>
 
 <!---![]()
 
