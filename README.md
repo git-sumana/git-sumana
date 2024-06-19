@@ -50,10 +50,6 @@
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 <br>
 
-![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/Matlab-282C34?logo=matlab&logoColor=61DAFB) 
-![](https://img.shields.io/badge/Octave-282C34?logo=Octave&logoColor=61DAFB) <br>
-
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) <br>
 
 <h3>Practice Platforms</h3>
