@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Sumana Datta Kapavarapu</b>
-- 🧑‍🎓 <b> IoT Graduate </b>
+- 🧑‍🎓 Completed my graduation in the feild <b> Internet of Things</b>
 - 💼 Working as a <b>Back End Developer</b>
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t><a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
  <!--🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://https://www.linkedin.com/in/sumana-datta](https://www.linkedin.com/in/sumana-datta/)) -->
