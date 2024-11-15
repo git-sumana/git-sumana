@@ -12,8 +12,7 @@
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-sumana&show_icons=true&locale=en&layout=compact" alt="git-sumana" /></p><br>
 
 
-<p align="center">&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=git-sumana&show_icons=true&locale=en" alt="git-sumana" /></p> 
-<p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=git-sumana&" alt="git-sumana" /></p>
+![git-sumana's Stats](https://github-readme-stats.vercel.app/api?username=git-sumana&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
 <i><h2>                                 "If opportunity doesn't knock the door, Build a door" - Milton Berle</h2></i>
 <!--  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={git-sumana}&theme=blue-green" alt="GIT-SUMANA" /> </p>
