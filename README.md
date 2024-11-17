@@ -13,8 +13,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-sumana&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="git-sumana's Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-sumana&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="git-sumana's Stats"> <br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=git-sumana)](https://git.io/streak-stats)
 </div>
+
+
 
 <!-- <div align="center">
   ![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats)
