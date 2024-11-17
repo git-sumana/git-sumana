@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats)]
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats).
 </div>
 
 
