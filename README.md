@@ -16,10 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=git-sumana&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="git-sumana's Stats">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   ![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats)
 </div>
-
+-->
 
 
 <i><h2>                                 "If opportunity doesn't knock the door, Build a door" - Milton Berle</h2></i>
