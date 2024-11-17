@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats).
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats)
 </div>
 
 
@@ -29,7 +29,7 @@
 <h3>Technical Skills</h3>
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![]([https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)) <BR>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
