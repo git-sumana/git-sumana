@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-sumana&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="git-sumana's Stats"> <br>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=git-sumana)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=git-sumana" alt="GitHub Streak" /></a>
 </div>
 
 
