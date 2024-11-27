@@ -18,10 +18,10 @@
 
 
 
-<!-- <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=git-sumana)](https://git.io/streak-stats)
 </div>
--->
+
 
 
 <i><h2>                                 "If opportunity doesn't knock the door, Build a door" - Milton Berle</h2></i>
