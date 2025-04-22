@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <i><b>Sumana Datta Kapavarapu</b></i>
 - 🧑‍🎓 Graduated in the feild of<b><i> Internet of Things</i></b> <i>- 24'</i>
-- 💼 Working as a <i><b>Software Engineer</b></i> @<i>FinMkt</i>
+- 💼 Working as a <i><b>Analyst</b></i> @<i>Inspira Enterprise</i>
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t><a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
  <!--🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://https://www.linkedin.com/in/sumana-datta](https://www.linkedin.com/in/sumana-datta/)) -->
 
