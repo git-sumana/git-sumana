@@ -1,9 +1,9 @@
 - 👋 Hi, I’m <i><b>Sumana Datta Kapavarapu</b></i>
 - 🧑‍🎓 Graduated in the feild of<b><i> Internet of Things</i></b> <i>- 24'</i>
 - 💼 Working as an <i><b>Analyst</b></i> @<i>Inspira Enterprise</i>
+ - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sumana-datta/)
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanaswags" height="30" width="40" /></a></t><a href="https://twitter.com/sumanastweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanastweet" height="30" width="40" /></a>
  <!--🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://https://www.linkedin.com/in/sumana-datta](https://www.linkedin.com/in/sumana-datta/)) -->
- - 🔗 **LinkedIn:** [https://in.linkedin.com/in/sumana-datta]  
 
 <p align="center">
   <img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="git-sumana" width="300px" />
