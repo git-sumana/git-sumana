@@ -24,7 +24,6 @@
   -->
  <div align="center">
 <h3>Technical Skills</h3>
-## 🛠 Tech Stack
 
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-0033A0?style=for-the-badge&logo=ibm&logoColor=white) ![LogRhythm](https://img.shields.io/badge/LogRhythm-0077C0?style=for-the-badge&logo=logrhythm&logoColor=white) ![Stellar Cyber](https://img.shields.io/badge/Stellar%20Cyber-FF5722?style=for-the-badge&logo=cybersecurity&logoColor=white)  <br>
 
