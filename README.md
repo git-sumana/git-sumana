@@ -40,6 +40,8 @@
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+⭐ If you like this README, drop a star!
+
  </div>
 
 <!---![]()
